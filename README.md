@@ -28,7 +28,7 @@ This tutorial will demonstrate how to deploy and configure a virtual network, a 
 <p>
 STEP 1: On the homepage of your Azure account, you will see a row of icons at the top, including "Resource Groups" and "Virtual Networks." Hover the cursor over Resource Groups and click "Create" when prompted.
 </p>
-<br />https://github.com/b8fox5-dev/Azure-Resource-Creation/blob/7743ecb36d5e6587aca7d42c7c3312d4c2c43e35/AD%20Screenshot%20001.PNG
+<br />![image alt](https://github.com/b8fox5-dev/Azure-Resource-Creation/blob/7743ecb36d5e6587aca7d42c7c3312d4c2c43e35/AD%20Screenshot%20001.PNG)
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
