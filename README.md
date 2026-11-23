@@ -3,7 +3,7 @@
 </p>
 
 <h1>Configuring Virtual Resources and Active Directory in the Cloud (Azure)</h1>
-This tutorial will demonstrate how to deploy and configure a virtual network, a domain controller, a domain client, and Active Directory within Microsoft Azure.<br />
+This tutorial will demonstrate how to deploy and configure a virtual network, a domain controller, a domain client, and Active Directory within Microsoft Azure. With Active Directory and PowerShell, we will create a few thousand accounts at once. With this completed, we will use our domain client to log into the network under various accounts, and then use our domain server to assign accounts to Groups, provision resources, configure permissions and passwords, and review event logs. <br />
 
 
 <h2>Environments and Technologies Used</h2>
