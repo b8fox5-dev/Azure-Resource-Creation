@@ -26,7 +26,7 @@ This tutorial will demonstrate how to deploy and configure a virtual network, a 
 
 </p>
 <p>
-On the homepage of your Azure account, you will see a row of icons at the top, including "Resource Groups" and "Virtual Networks." Hover the cursor over Resource Groups and click "Create" when prompted.
+STEP 1: On the homepage of your Azure account, you will see a row of icons at the top, including "Resource Groups" and "Virtual Networks." Hover the cursor over Resource Groups and click "Create" when prompted.
 </p>
 <br />
 
