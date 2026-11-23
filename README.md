@@ -6,10 +6,6 @@
 This tutorial will demonstrate how to deploy and configure a virtual network, a domain controller, a domain client, and Active Directory within Microsoft Azure.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
