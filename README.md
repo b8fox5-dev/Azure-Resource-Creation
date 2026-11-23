@@ -22,7 +22,7 @@ This tutorial will demonstrate how to deploy and configure a virtual network, a 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img width="1595" height="737" alt="image" src="https://github.com/user-attachments/assets/4437b8aa-230b-4c5e-b2f2-96ecdcaa4d13" />
+![image alt](<img width="1595" height="737" alt="image" src="https://github.com/user-attachments/assets/4437b8aa-230b-4c5e-b2f2-96ecdcaa4d13") />
 
 </p>
 <p>
